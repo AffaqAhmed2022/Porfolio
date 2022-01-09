@@ -1,0 +1,169 @@
+body    {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #EAF6F6;
+    font-size: 1rem;
+
+}
+
+h1  {
+   margin: 50px auto 0 auto;
+   font-family: 'Sacramento', cursive;
+   font-size: 5.625rem;
+   color: #66BFBF;
+   /* line-height: 2; */
+    
+}
+
+h2  {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3  {
+    font-family: 'Montserrat', sans-serif;
+    color:  #11999E;
+}
+.top-container  {
+     background-color: #d2f2f5 ;
+     width: 100%;
+     background-size: cover;
+     position: relative;
+     padding-top: 100px;
+     
+
+}
+.middle-container   {
+    margin: 100px 0;
+}
+
+.pro   {
+    text-decoration: underline;
+}
+
+.intro  {
+    width: 30%;
+    margin: auto;
+    
+}
+
+.top-cloud  {
+   position: absolute; 
+    top: 50px;
+    right: 300px;
+   
+}
+
+.bottom-cloud   {
+    position: absolute; 
+    bottom: 300px;
+    left: 300px;
+}
+
+a   {
+    text-decoration: none;
+    font-size: 1rem;
+    color:#19999E;
+    margin: 10px 20px;
+}
+
+a:hover {
+    color:#EAF6F6;
+}
+
+.skill-row  {
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.web  {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    
+}
+
+.design {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+   
+}
+
+/* .btn    {
+   
+}
+
+button  {
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    border: 0;
+    font-size: 22px;
+    background-image: linear-gradient(#66bfbf,#2980b9);
+} */
+button {
+    background: #3498db;
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 10px auto;
+  }
+  
+button:hover {
+    background: #3cb0fd;
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+
+  p {
+    color: #374442;
+    line-height: 2;
+  }
+
+  hr    {
+      border-style: none;
+      border-top-style: dotted;
+      width: 5%;
+      border-width: 5px;
+      color: grey;
+    margin: 120px auto 100px auto;
+  }
+
+  .bottom-container {
+      background-color: #66BFBF;     
+      /* font-size: 1rem; */
+        padding: 50px 0 20px 0;
+      text-align: center;
+      line-height: 30px;
+  }
+
+
+  
+
+  .name-p   {
+     color: #EAF6F6;
+     font-size: 0.75rem;
+     padding: 20px auto;
+
+      
+  }
+  .contact-message  {
+      width: 40%;
+      margin: 40px auto 40px;
+  }
+
+  .btn{
+      color: #EAF6F6;
+  }}
